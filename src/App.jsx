@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>wellcome to react deployment</h1>
+      <h1>hello hello</h1>
     </>
   )
 }
